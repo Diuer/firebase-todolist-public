@@ -1,0 +1,76 @@
+{
+  "alert": {
+    "no": {
+      "permission": "No permission"
+    },
+    "please": {
+      "login": "Please login first"
+    }
+  },
+  "button": {
+    "create": "Create",
+    "cancel": "Cancel",
+    "save": "Save"
+  },
+  "validate": {
+    "required": "Required",
+    "length": {
+      "must": {
+        "moreThan": "Length must be more than {{min}}",
+        "lessThan": "Length must be less than {{max}}"
+      }
+    },
+    "invalid": {
+      "space": {
+        "betweenBeginAndEnd": "No whitespace before and after"
+      }
+    }
+  },
+  "title": {
+    "task": {
+      "create": "Create Task",
+      "edit": "Edit Task"
+    }
+  },
+  "please": {
+    "input": {
+      "information": "Please input information"
+    }
+  },
+  "field": {
+    "task": {
+      "name": "Task Name",
+      "category": "Task Category"
+    }
+  },
+  "options": {
+    "task": {
+      "category": {
+        "human": "Human",
+        "family": "Family",
+        "extrinsic": "Extrinsic",
+        "work": "Work",
+        "life": "Life",
+        "wealth": "Wealth",
+        "leisure": "Leisure",
+        "learning": "Learning"
+      },
+      "status": {
+        "true": "Done",
+        "false": "Not Yet"
+      }
+    }
+  },
+  "tooltip": {
+    "change": {
+      "language": "Change language"
+    },
+    "login": "Sign in",
+    "logout": "Sign out",
+    "undo": "Undo",
+    "completed": "Completed",
+    "create": "Create",
+    "edit": "Edit",
+    "delete": "Delete"
+  }
+}

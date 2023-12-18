@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "cubic";
+  src: url("./fonts/title.woff") format("woff");
+}
+
+@font-face {
+  font-family: "prostone";
+  src: url("./fonts/content.ttf") format("woff");
+}
+
+@font-face {
+  font-family: "noto";
+  src: url("./fonts/chinese.otf") format("woff");
+}
+
+body {
+  margin: 0;
+  font-family: "prostone", "noto", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+}
+
+.App {
+  height: 100vh;
+
+  .header {
+    .icon {
+      display: block;
+      margin-left: auto;
+      margin-top: 0.25rem;
+    }
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

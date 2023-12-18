@@ -1,0 +1,76 @@
+{
+  "alert": {
+    "no": {
+      "permission": "無權限"
+    },
+    "please": {
+      "login": "請先登入"
+    }
+  },
+  "button": {
+    "create": "建立",
+    "cancel": "取消",
+    "save": "儲存"
+  },
+  "validate": {
+    "required": "必填",
+    "length": {
+      "must": {
+        "moreThan": "長度必須大於 {{min}}",
+        "lessThan": "長度必須小於 {{max}}"
+      }
+    },
+    "invalid": {
+      "space": {
+        "betweenBeginAndEnd": "前後不能有空白"
+      }
+    }
+  },
+  "title": {
+    "task": {
+      "create": "新增任務",
+      "edit": "修改任務"
+    }
+  },
+  "please": {
+    "input": {
+      "information": "請填入相關資訊"
+    }
+  },
+  "field": {
+    "task": {
+      "name": "項目名稱",
+      "category": "類型"
+    }
+  },
+  "options": {
+    "task": {
+      "category": {
+        "human": "人際",
+        "family": "家庭",
+        "extrinsic": "內在",
+        "work": "工作",
+        "life": "生活",
+        "wealth": "財富",
+        "leisure": "休閒",
+        "learning": "學習"
+      },
+      "status": {
+        "true": "已完成",
+        "false": "尚未完成"
+      }
+    }
+  },
+  "tooltip": {
+    "change": {
+      "language": "更換語言"
+    },
+    "login": "登入",
+    "logout": "登出",
+    "undo": "重做",
+    "completed": "已完成",
+    "create": "新增",
+    "edit": "編輯",
+    "delete": "刪除"
+  }
+}
